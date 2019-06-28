@@ -1,3 +1,6 @@
+---
+title:directory
+---
 # 目录详情
 ## `public`目录
 **vue-cli**默认文件夹，存放`index.html`、`favicon`文件

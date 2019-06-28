@@ -14,5 +14,4 @@ module.exports = {
         searchMaxSuggestions: 10,
         lastUpdated: 'Last Updated',
     },
-
 };
